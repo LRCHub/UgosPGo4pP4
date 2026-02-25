@@ -1,0 +1,52 @@
+# A-One – Drive Your Ambition
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Let's drive your ambition駆け抜けてよ
+研ぎ澄まされてく熱い思い
+見るもの全てを追い越したらGet chance to be number 1
+
+Step on the accelerator心迷わず
+Carry on with your workギリギリを進もう
+
+Do itその日常捨て去りなよ
+Do itそのイメージ今ここでさらけ出してみなよ！
+
+Let's drive your ambition駆け抜けてよ
+研ぎ澄まされてく熱い思い
+見るもの全てを追い越したらGet chance to be number 1
+So don't give up your ambition負けないでよ
+涙見せるにはまだ早い
+最後まで誰もわからないから狙うはNumber 1
+
+The long fight is over最果ての向こう
+Show up the new winding roadまた次の場所へ
+
+Do itその運命受け止めなよ
+Do itその瞳は新しい困難も越えられるよ！
+
+Let's drive your ambition駆け抜けてよ
+さらにほとばしる熱い思い
+一瞬も気の抜けない鼓動の先にGet chance to be number 1
+So don't give up your ambition負けないでよ
+あきらめなければ叶う願い
+この世界中で最も速い君がNumber 1
+
+Do itその日常捨て去りなよ
+Do itそのイメージ今ここでさらけ出してみなよ！
+
+Let's drive your ambition駆け抜けてよ
+研ぎ澄まされてく熱い思い
+見るもの全てを追い越したらGet chance to be No.1
+So don't give up your ambition負けないでよ
+涙見せるにはまだ早い
+最後まで誰もわからないから狙うはNumber 1
+
+Let's drive your ambition駆け抜けてよ
+さらにほとばしる熱い思い
+一瞬も気の抜けない鼓動の先にGet chance to be number 1
+So don't give up your ambition負けないでよ
+あきらめなければ叶う願い
+この世界中で最も速い君がNo.1
+```
