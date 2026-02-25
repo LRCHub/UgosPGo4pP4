@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Drive Your Ambition",
+  "base_artist": "A-One",
+  "createdAt": "2026-02-25T06:56:50.453343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drive Your Ambition",
+      "artist": "A-One",
+      "has_synced": false,
+      "path": "select/01_Drive_Your_Ambition_A-One.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drive Your Ambition",
+      "artist": "Mie // A-One",
+      "has_synced": true,
+      "path": "select/02_Drive_Your_Ambition_Mie___A-One.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Drive Your Truck",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/03_I_Drive_Your_Truck_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "People Get Up And Drive Your Funky Soul - Remix",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/04_People_Get_Up_And_Drive_Your_Funky_Soul_-_Remix_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Drive Your Truck",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/05_I_Drive_Your_Truck_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Drive Your Truck",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/06_I_Drive_Your_Truck_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "People Get Up And Drive Your Funky Soul - Remix",
+      "artist": "James Brown feat. Fred Wesley & The J.B.'s",
+      "has_synced": true,
+      "path": "select/07_People_Get_Up_And_Drive_Your_Funky_Soul_-_Remix_James_Brown_feat._Fred_Wesley_&_The_J.B.'s.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "People Get Up And Drive Your Funky Soul - Remix",
+      "artist": "James Brown/Fred Wesley/The J.B.'s",
+      "has_synced": true,
+      "path": "select/08_People_Get_Up_And_Drive_Your_Funky_Soul_-_Remix_James_Brown_Fred_Wesley_The_J.B.'s.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Drive Your Truck",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/09_I_Drive_Your_Truck_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Drive Your Mama Away",
+      "artist": "Shirley Caesar",
+      "has_synced": false,
+      "path": "select/10_Don't_Drive_Your_Mama_Away_Shirley_Caesar.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Drive Your Truck",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/11_I_Drive_Your_Truck_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Up and Drive Your Funky Soul",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/12_Get_Up_and_Drive_Your_Funky_Soul_James_Brown.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drive Your Ambition",
+      "artist": "A-One",
+      "has_synced": false,
+      "path": "select/pl_01_Drive_Your_Ambition_A-One.txt"
+    }
+  ]
+}
